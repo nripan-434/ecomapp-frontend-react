@@ -1,1 +1,1 @@
-https://ecomapp-frontend-react.vercel.app/home
+https://ecomapp-frontend-react.vercel.app/
